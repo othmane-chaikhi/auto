@@ -17,5 +17,5 @@ git push -u origin main
 REM Display a success message
 echo Git operations completed successfully.
 
-REM Keep the command prompt window open after execution (optional)
-pause
+@REM REM Keep the command prompt window open after execution (optional)
+@REM pause
