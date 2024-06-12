@@ -10,6 +10,7 @@ REM Add the remote repository
 git remote add origin %repo_url%
 
 REM Perform Git operations (e.g., add, commit, push)
+echo Adding files...
 git add .
 git commit -m "Initial commit"
 git push -u origin main
